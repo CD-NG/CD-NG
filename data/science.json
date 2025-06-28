@@ -1,0 +1,102 @@
+[
+    {
+        "question": "Which part of a plant absorbs water and nutrients from the soil?",
+        "options": ["Leaves", "Stem", "Roots", "Flower"],
+        "answer": 2
+    },
+    {
+        "question": "What do we call a baby frog?",
+        "options": ["Calf", "Tadpole", "Puppy", "Cub"],
+        "answer": 1
+    },
+    {
+        "question": "Which of these is a source of light?",
+        "options": ["Moon", "Sun", "Cloud", "Mountain"],
+        "answer": 1
+    },
+    {
+        "question": "What do butterflies develop from?",
+        "options": ["Seeds", "Eggs", "Leaves", "Rocks"],
+        "answer": 1
+    },
+    {
+        "question": "Which sense do we use to smell flowers?",
+        "options": ["Sight", "Hearing", "Touch", "Smell"],
+        "answer": 3
+    },
+    {
+        "question": "What gas do plants release during photosynthesis?",
+        "options": ["Carbon Dioxide", "Nitrogen", "Oxygen", "Hydrogen"],
+        "answer": 2
+    },
+    {
+        "question": "Which animal can change its color to blend with surroundings?",
+        "options": ["Frog", "Lizard", "Chameleon", "Snake"],
+        "answer": 2
+    },
+    {
+        "question": "What do we call the process of water turning into vapor?",
+        "options": ["Condensation", "Evaporation", "Precipitation", "Collection"],
+        "answer": 1
+    },
+    {
+        "question": "Which planet is known as the Red Planet?",
+        "options": ["Venus", "Mars", "Jupiter", "Saturn"],
+        "answer": 1
+    },
+    {
+        "question": "What do bees collect from flowers to make honey?",
+        "options": ["Pollen", "Nectar", "Leaves", "Seeds"],
+        "answer": 1
+    },
+    {
+        "question": "Which of these is not a mammal?",
+        "options": ["Whale", "Bat", "Shark", "Dolphin"],
+        "answer": 2
+    },
+    {
+        "question": "What is the largest organ in the human body?",
+        "options": ["Liver", "Heart", "Skin", "Lungs"],
+        "answer": 2
+    },
+    {
+        "question": "Which of these helps protect the Earth from harmful sun rays?",
+        "options": ["Clouds", "Ozone layer", "Mountains", "Oceans"],
+        "answer": 1
+    },
+    {
+        "question": "What do we call the study of weather?",
+        "options": ["Geology", "Meteorology", "Biology", "Astronomy"],
+        "answer": 1
+    },
+    {
+        "question": "Which of these is a renewable energy source?",
+        "options": ["Coal", "Oil", "Solar power", "Natural gas"],
+        "answer": 2
+    },
+    {
+        "question": "What do caterpillars turn into?",
+        "options": ["Frogs", "Butterflies", "Birds", "Fish"],
+        "answer": 1
+    },
+    {
+        "question": "Which of these is a gas?",
+        "options": ["Water", "Ice", "Steam", "Snow"],
+        "answer": 2
+    },
+    {
+        "question": "What is the main function of our bones?",
+        "options": ["To help us move", "To protect organs", "To produce blood", "All of the above"],
+        "answer": 3
+    },
+    {
+        "question": "Which sense do we use to taste food?",
+        "options": ["Eyes", "Nose", "Tongue", "Ears"],
+        "answer": 2
+    },
+    {
+        "question": "What do plants need to make their own food?",
+        "options": ["Water, soil, and air", "Sunlight, water, and carbon dioxide", "Fertilizer and soil", "Seeds and water"],
+        "answer": 1
+    }
+]

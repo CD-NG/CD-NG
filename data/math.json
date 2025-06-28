@@ -1,0 +1,102 @@
+[
+    {
+        "question": "What is 7 + 5?",
+        "options": ["10", "11", "12", "13"],
+        "answer": 2
+    },
+    {
+        "question": "How many sides does a triangle have?",
+        "options": ["2", "3", "4", "5"],
+        "answer": 1
+    },
+    {
+        "question": "If you have 4 apples and give 1 to your friend, how many do you have left?",
+        "options": ["1", "2", "3", "4"],
+        "answer": 2
+    },
+    {
+        "question": "Which number comes after 15?",
+        "options": ["14", "15", "16", "17"],
+        "answer": 2
+    },
+    {
+        "question": "What shape is a soccer ball?",
+        "options": ["Circle", "Square", "Sphere", "Cube"],
+        "answer": 2
+    },
+    {
+        "question": "What is 9 - 3?",
+        "options": ["5", "6", "7", "8"],
+        "answer": 1
+    },
+    {
+        "question": "How many corners does a rectangle have?",
+        "options": ["3", "4", "5", "6"],
+        "answer": 1
+    },
+    {
+        "question": "If a toy costs 8 rupees and you pay with 10 rupees, how much change will you get?",
+        "options": ["1 rupee", "2 rupees", "3 rupees", "4 rupees"],
+        "answer": 1
+    },
+    {
+        "question": "What is 5 + 3 + 2?",
+        "options": ["9", "10", "11", "12"],
+        "answer": 1
+    },
+    {
+        "question": "Which of these shapes has no straight sides?",
+        "options": ["Triangle", "Square", "Circle", "Rectangle"],
+        "answer": 2
+    },
+    {
+        "question": "What is 20 - 5?",
+        "options": ["10", "12", "15", "17"],
+        "answer": 2
+    },
+    {
+        "question": "How many sides does a hexagon have?",
+        "options": ["4", "5", "6", "7"],
+        "answer": 2
+    },
+    {
+        "question": "If you have 3 groups of 4 cookies, how many cookies do you have?",
+        "options": ["7", "10", "12", "15"],
+        "answer": 2
+    },
+    {
+        "question": "Which number is even?",
+        "options": ["3", "5", "7", "8"],
+        "answer": 3
+    },
+    {
+        "question": "What is 15 divided by 3?",
+        "options": ["3", "4", "5", "6"],
+        "answer": 2
+    },
+    {
+        "question": "How many minutes are in an hour?",
+        "options": ["30", "45", "60", "90"],
+        "answer": 2
+    },
+    {
+        "question": "What is 7 × 2?",
+        "options": ["9", "12", "14", "16"],
+        "answer": 2
+    },
+    {
+        "question": "Which shape has all sides equal?",
+        "options": ["Rectangle", "Triangle", "Square", "Oval"],
+        "answer": 2
+    },
+    {
+        "question": "If it's 3:15 now, what time will it be in 45 minutes?",
+        "options": ["3:30", "3:45", "4:00", "4:15"],
+        "answer": 2
+    },
+    {
+        "question": "What is 100 divided by 10?",
+        "options": ["5", "10", "15", "20"],
+        "answer": 1
+    }
+]
