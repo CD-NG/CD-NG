@@ -977,7 +977,7 @@
             "65",
             "67"
         ],
-        "answer": 1
+        "answer": 2
     },
     {
         "question": "There are 5 boxes. Each has 20 chocolates. How many chocolates?",
@@ -1007,7 +1007,7 @@
             "46",
             "48"
         ],
-        "answer": 2
+        "answer": 1
     },
     {
         "question": "A movie ticket costs $10. How much for 5 tickets?",
@@ -1027,7 +1027,7 @@
             "13",
             "14"
         ],
-        "answer": 2
+        "answer": 1
     },
     {
         "question": "A store had 95 books. 38 were sold. How many left?",
@@ -1087,7 +1087,7 @@
             "10",
             "11"
         ],
-        "answer": 2
+        "answer": 1
     },
     {
         "question": "A bakery had 100 cookies. 45 were sold. How many left?",
@@ -1097,7 +1097,7 @@
             "55",
             "57"
         ],
-        "answer": 1
+        "answer": 2
     },
     {
         "question": "There are 6 boxes. Each has 25 candies. How many candies?",
@@ -1207,7 +1207,7 @@
             "13",
             "14"
         ],
-        "answer": 2
+        "answer": 1
     },
     {
         "question": "A store had 150 notebooks. 60 were sold. How many left?",
@@ -1217,7 +1217,7 @@
             "90",
             "92"
         ],
-        "answer": 1
+        "answer": 2
     },
     {
         "question": "There are 4 shelves. Each holds 40 books. How many books?",
@@ -1287,7 +1287,7 @@
             "130",
             "135"
         ],
-        "answer": 2
+        "answer": 0
     },
     {
         "question": "A farmer has 108 apples. He packs 12 per box. How many boxes?",
@@ -1327,7 +1327,7 @@
             "13",
             "14"
         ],
-        "answer": 2
+        "answer": 1
     },
     {
         "question": "A store had 130 balls. 55 were sold. How many left?",
@@ -1397,7 +1397,7 @@
             "90",
             "92"
         ],
-        "answer": 1
+        "answer": 2
     },
     {
         "question": "There are 4 shelves. Each holds 50 books. How many books?",
@@ -1417,7 +1417,7 @@
             "9",
             "10"
         ],
-        "answer": 2
+        "answer": 1
     },
     {
         "question": "Tom had 100 marbles. He lost 45. How many left?",
