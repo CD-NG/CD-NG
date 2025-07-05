@@ -1,102 +1,1522 @@
 [
     {
-        "question": "What is 7 + 5?",
-        "options": ["10", "11", "12", "13"],
-        "answer": 2
-    },
-    {
-        "question": "How many sides does a triangle have?",
-        "options": ["2", "3", "4", "5"],
+        "question": "Emma has 28 stickers. She gives 13 to her friend. How many stickers does she have left?",
+        "options": [
+            "12",
+            "15",
+            "16",
+            "17"
+        ],
         "answer": 1
     },
     {
-        "question": "If you have 4 apples and give 1 to your friend, how many do you have left?",
-        "options": ["1", "2", "3", "4"],
-        "answer": 2
-    },
-    {
-        "question": "Which number comes after 15?",
-        "options": ["14", "15", "16", "17"],
-        "answer": 2
-    },
-    {
-        "question": "What shape is a soccer ball?",
-        "options": ["Circle", "Square", "Sphere", "Cube"],
-        "answer": 2
-    },
-    {
-        "question": "What is 9 - 3?",
-        "options": ["5", "6", "7", "8"],
+        "question": "There are 5 shelves in a library. Each shelf has 16 books. How many books are there total?",
+        "options": [
+            "75",
+            "80",
+            "85",
+            "90"
+        ],
         "answer": 1
     },
     {
-        "question": "How many corners does a rectangle have?",
-        "options": ["3", "4", "5", "6"],
+        "question": "A box contains 64 crayons. If 8 children share them equally, how many crayons does each child get?",
+        "options": [
+            "6",
+            "7",
+            "8",
+            "9"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Tom had 120 marbles. He lost 45. How many marbles does he have now?",
+        "options": [
+            "65",
+            "70",
+            "75",
+            "80"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "A baker makes 36 cupcakes each day. How many cupcakes will he make in 6 days?",
+        "options": [
+            "206",
+            "210",
+            "216",
+            "220"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "There are 144 pencils in a box. If divided equally among 12 students, how many pencils per student?",
+        "options": [
+            "10",
+            "11",
+            "12",
+            "13"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Sarah read 25 pages on Monday and 38 pages on Tuesday. How many pages did she read total?",
+        "options": [
+            "53",
+            "58",
+            "63",
+            "68"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "A garden has 18 rows of flowers. Each row has 9 flowers. How many flowers are there?",
+        "options": [
+            "152",
+            "158",
+            "162",
+            "168"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Mike saved $15 each week for 8 weeks. How much money has he saved?",
+        "options": [
+            "$105",
+            "$115",
+            "$120",
+            "$125"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "There are 96 cookies. If packed into boxes of 8, how many boxes are needed?",
+        "options": [
+            "10",
+            "11",
+            "12",
+            "13"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "A bus has 42 passengers. 19 get off at the first stop. How many passengers remain?",
+        "options": [
+            "21",
+            "22",
+            "23",
+            "24"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "There are 7 classes with 24 students each. How many students total?",
+        "options": [
+            "158",
+            "162",
+            "168",
+            "172"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "A farmer has 108 eggs. He packs them in cartons of 12. How many cartons?",
+        "options": [
+            "7",
+            "8",
+            "9",
+            "10"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Lily has 45 stickers. Her brother gives her 28 more. How many stickers now?",
+        "options": [
+            "63",
+            "68",
+            "73",
+            "78"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "A box holds 25 apples. How many apples in 9 boxes?",
+        "options": [
+            "215",
+            "220",
+            "225",
+            "230"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "There are 132 chairs. If arranged in rows of 11, how many rows?",
+        "options": [
+            "10",
+            "11",
+            "12",
+            "13"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "A toy costs $15. How much for 7 toys?",
+        "options": [
+            "$95",
+            "$100",
+            "$105",
+            "$110"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "There are 85 oranges. 38 are sold. How many remain?",
+        "options": [
+            "42",
+            "47",
+            "52",
+            "57"
+        ],
         "answer": 1
     },
     {
-        "question": "If a toy costs 8 rupees and you pay with 10 rupees, how much change will you get?",
-        "options": ["1 rupee", "2 rupees", "3 rupees", "4 rupees"],
+        "question": "A school has 9 classrooms. Each has 32 desks. How many desks total?",
+        "options": [
+            "278",
+            "282",
+            "288",
+            "292"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "64 students are divided into 8 equal teams. How many per team?",
+        "options": [
+            "7",
+            "8",
+            "9",
+            "10"
+        ],
         "answer": 1
     },
     {
-        "question": "What is 5 + 3 + 2?",
-        "options": ["9", "10", "11", "12"],
+        "question": "Jack has 56 comic books. He buys 29 more. How many total?",
+        "options": [
+            "75",
+            "80",
+            "85",
+            "90"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "A baker makes 48 cookies each hour. How many in 5 hours?",
+        "options": [
+            "220",
+            "230",
+            "240",
+            "250"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "120 books are shared equally among 10 libraries. How many per library?",
+        "options": [
+            "10",
+            "11",
+            "12",
+            "13"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "A store has 75 toy cars. 28 are sold. How many left?",
+        "options": [
+            "42",
+            "47",
+            "52",
+            "57"
+        ],
         "answer": 1
     },
     {
-        "question": "Which of these shapes has no straight sides?",
-        "options": ["Triangle", "Square", "Circle", "Rectangle"],
+        "question": "There are 6 packs of markers. Each pack has 18 markers. How many markers?",
+        "options": [
+            "98",
+            "104",
+            "108",
+            "112"
+        ],
         "answer": 2
     },
     {
-        "question": "What is 20 - 5?",
-        "options": ["10", "12", "15", "17"],
+        "question": "96 apples are divided equally into 8 baskets. How many per basket?",
+        "options": [
+            "10",
+            "11",
+            "12",
+            "13"
+        ],
         "answer": 2
     },
     {
-        "question": "How many sides does a hexagon have?",
-        "options": ["4", "5", "6", "7"],
+        "question": "Emma has 87 beads. She uses 39 for a necklace. How many left?",
+        "options": [
+            "42",
+            "48",
+            "52",
+            "58"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "A book has 144 pages. If read 12 pages daily, how many days to finish?",
+        "options": [
+            "10",
+            "11",
+            "12",
+            "13"
+        ],
         "answer": 2
     },
     {
-        "question": "If you have 3 groups of 4 cookies, how many cookies do you have?",
-        "options": ["7", "10", "12", "15"],
+        "question": "A classroom has 35 students. 18 are boys. How many girls?",
+        "options": [
+            "15",
+            "16",
+            "17",
+            "18"
+        ],
         "answer": 2
     },
     {
-        "question": "Which number is even?",
-        "options": ["3", "5", "7", "8"],
+        "question": "A factory makes 54 toys each hour. How many in 4 hours?",
+        "options": [
+            "206",
+            "210",
+            "216",
+            "220"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "There are 81 pencils. Divided equally among 9 boxes, how many per box?",
+        "options": [
+            "8",
+            "9",
+            "10",
+            "11"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "A zoo has 65 animals. 29 are mammals. How many are not mammals?",
+        "options": [
+            "36",
+            "38",
+            "40",
+            "42"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "A store sells 7 packs of cards. Each has 15 cards. How many cards?",
+        "options": [
+            "95",
+            "100",
+            "105",
+            "110"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "108 students go on a field trip. Each bus holds 36 students. How many buses?",
+        "options": [
+            "2",
+            "3",
+            "4",
+            "5"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Sarah has 52 stickers. She buys 38 more. How many total?",
+        "options": [
+            "80",
+            "85",
+            "90",
+            "95"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "A baker bakes 72 muffins. She sells 45. How many left?",
+        "options": [
+            "25",
+            "27",
+            "30",
+            "32"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "There are 8 tables. Each has 6 chairs. How many chairs?",
+        "options": [
+            "46",
+            "48",
+            "50",
+            "52"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "A farmer has 96 eggs. He packs in cartons of 12. How many cartons?",
+        "options": [
+            "7",
+            "8",
+            "9",
+            "10"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Tom had 75 baseball cards. He gave 28 to his friend. How many left?",
+        "options": [
+            "42",
+            "47",
+            "52",
+            "57"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "A book costs $12. How much for 9 books?",
+        "options": [
+            "$98",
+            "$102",
+            "$108",
+            "$112"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "There are 150 students. 60 are in 4th grade. How many are not?",
+        "options": [
+            "80",
+            "85",
+            "90",
+            "95"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "A box has 24 chocolates. How many in 7 boxes?",
+        "options": [
+            "158",
+            "162",
+            "168",
+            "174"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "84 oranges are divided equally among 6 baskets. How many per basket?",
+        "options": [
+            "12",
+            "13",
+            "14",
+            "15"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "A toy store has 56 robots. 29 are sold. How many left?",
+        "options": [
+            "25",
+            "26",
+            "27",
+            "28"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "There are 9 rows of seats. Each row has 11 seats. How many seats?",
+        "options": [
+            "95",
+            "97",
+            "99",
+            "101"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "A farmer has 108 chickens. He puts 12 in each coop. How many coops?",
+        "options": [
+            "8",
+            "9",
+            "10",
+            "11"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Mary has 63 crayons. She gives 27 to her sister. How many left?",
+        "options": [
+            "34",
+            "36",
+            "38",
+            "40"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "A pack of pencils costs $3. How much for 8 packs?",
+        "options": [
+            "$22",
+            "$24",
+            "$26",
+            "$28"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "There are 132 balloons. If shared equally among 11 children, how many each?",
+        "options": [
+            "10",
+            "11",
+            "12",
+            "13"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "A store had 85 puzzles. 37 were sold. How many remain?",
+        "options": [
+            "45",
+            "48",
+            "52",
+            "58"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "There are 7 bags. Each has 14 apples. How many apples?",
+        "options": [
+            "88",
+            "92",
+            "96",
+            "98"
+        ],
         "answer": 3
     },
     {
-        "question": "What is 15 divided by 3?",
-        "options": ["3", "4", "5", "6"],
-        "answer": 2
-    },
-    {
-        "question": "How many minutes are in an hour?",
-        "options": ["30", "45", "60", "90"],
-        "answer": 2
-    },
-    {
-        "question": "What is 7 × 2?",
-        "options": ["9", "12", "14", "16"],
-        "answer": 2
-    },
-    {
-        "question": "Which shape has all sides equal?",
-        "options": ["Rectangle", "Triangle", "Square", "Oval"],
-        "answer": 2
-    },
-    {
-        "question": "If it's 3:15 now, what time will it be in 45 minutes?",
-        "options": ["3:30", "3:45", "4:00", "4:15"],
-        "answer": 2
-    },
-    {
-        "question": "What is 100 divided by 10?",
-        "options": ["5", "10", "15", "20"],
+        "question": "96 cookies are divided equally among 8 friends. How many per friend?",
+        "options": [
+            "11",
+            "12",
+            "13",
+            "14"
+        ],
         "answer": 1
+    },
+    {
+        "question": "David has 78 stamps. He buys 35 more. How many total?",
+        "options": [
+            "103",
+            "108",
+            "113",
+            "118"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "A factory makes 45 toys per day. How many in 7 days?",
+        "options": [
+            "305",
+            "310",
+            "315",
+            "320"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "120 students are divided into 12 equal groups. How many per group?",
+        "options": [
+            "8",
+            "9",
+            "10",
+            "11"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "A library has 95 books. 38 are checked out. How many remain?",
+        "options": [
+            "52",
+            "55",
+            "57",
+            "60"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "There are 5 shelves. Each holds 22 books. How many books?",
+        "options": [
+            "105",
+            "110",
+            "115",
+            "120"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "A farmer has 144 eggs. He packs in dozens (12). How many cartons?",
+        "options": [
+            "10",
+            "11",
+            "12",
+            "13"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Sally has 57 stickers. She gives 29 to her brother. How many left?",
+        "options": [
+            "26",
+            "28",
+            "30",
+            "32"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "A game costs $18. How much for 6 games?",
+        "options": [
+            "$102",
+            "$106",
+            "$108",
+            "$112"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "There are 168 pencils. Divided equally among 14 students, how many each?",
+        "options": [
+            "10",
+            "11",
+            "12",
+            "13"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "A store had 124 balls. 47 were sold. How many left?",
+        "options": [
+            "74",
+            "77",
+            "80",
+            "83"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "There are 8 boxes. Each has 15 candies. How many candies?",
+        "options": [
+            "115",
+            "118",
+            "120",
+            "125"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "A farmer has 99 pumpkins. He loads 11 per truck. How many trucks?",
+        "options": [
+            "7",
+            "8",
+            "9",
+            "10"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Jenny has 68 buttons. She uses 35 for crafts. How many left?",
+        "options": [
+            "31",
+            "33",
+            "35",
+            "37"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "A book costs $14. How much for 5 books?",
+        "options": [
+            "$65",
+            "$70",
+            "$75",
+            "$80"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "There are 135 stickers. If shared equally among 9 children, how many each?",
+        "options": [
+            "14",
+            "15",
+            "16",
+            "17"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "A bakery had 85 donuts. 39 were sold. How many left?",
+        "options": [
+            "44",
+            "46",
+            "48",
+            "50"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "There are 6 classes. Each has 25 students. How many students?",
+        "options": [
+            "140",
+            "145",
+            "150",
+            "155"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "A farmer has 108 cows. He divides them equally into 9 fields. How many per field?",
+        "options": [
+            "10",
+            "11",
+            "12",
+            "13"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Mike had 95 baseball cards. He traded 48. How many left?",
+        "options": [
+            "42",
+            "45",
+            "47",
+            "50"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "A puzzle costs $16. How much for 4 puzzles?",
+        "options": [
+            "$60",
+            "$62",
+            "$64",
+            "$66"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "There are 144 oranges. Divided equally among 12 baskets, how many per basket?",
+        "options": [
+            "10",
+            "11",
+            "12",
+            "13"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "A store had 137 toys. 59 were sold. How many left?",
+        "options": [
+            "76",
+            "78",
+            "80",
+            "82"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "There are 9 packs of gum. Each has 15 pieces. How many pieces?",
+        "options": [
+            "125",
+            "130",
+            "135",
+            "140"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "A farmer has 112 sheep. He puts 14 in each pen. How many pens?",
+        "options": [
+            "7",
+            "8",
+            "9",
+            "10"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Lisa has 87 beads. She uses 49 for a project. How many left?",
+        "options": [
+            "36",
+            "38",
+            "40",
+            "42"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "A movie ticket costs $12. How much for 7 tickets?",
+        "options": [
+            "$80",
+            "$82",
+            "$84",
+            "$86"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "There are 168 flowers. Divided equally among 14 vases, how many per vase?",
+        "options": [
+            "10",
+            "11",
+            "12",
+            "13"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "A store had 155 notebooks. 68 were sold. How many left?",
+        "options": [
+            "82",
+            "85",
+            "87",
+            "90"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "There are 8 tables. Each has 7 chairs. How many chairs?",
+        "options": [
+            "52",
+            "54",
+            "56",
+            "58"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "A farmer has 117 potatoes. He bags 9 per bag. How many bags?",
+        "options": [
+            "12",
+            "13",
+            "14",
+            "15"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Tom had 75 marbles. He lost 29. How many left?",
+        "options": [
+            "44",
+            "46",
+            "48",
+            "50"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "A book costs $21. How much for 3 books?",
+        "options": [
+            "$61",
+            "$63",
+            "$65",
+            "$67"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "There are 135 students. Divided into 9 teams, how many per team?",
+        "options": [
+            "13",
+            "14",
+            "15",
+            "16"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "A bakery had 92 cakes. 47 were sold. How many left?",
+        "options": [
+            "43",
+            "45",
+            "47",
+            "49"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "There are 6 shelves. Each holds 28 books. How many books?",
+        "options": [
+            "158",
+            "162",
+            "166",
+            "168"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "A farmer has 96 apples. He packs 8 per box. How many boxes?",
+        "options": [
+            "10",
+            "11",
+            "12",
+            "13"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Jenny has 58 stickers. She buys 37 more. How many total?",
+        "options": [
+            "85",
+            "90",
+            "95",
+            "100"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "A painter uses 15 liters of paint per room. How much for 8 rooms?",
+        "options": [
+            "115",
+            "118",
+            "120",
+            "125"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "There are 156 pencils. Divided equally among 12 students, how many each?",
+        "options": [
+            "11",
+            "12",
+            "13",
+            "14"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "A store had 128 erasers. 59 were sold. How many left?",
+        "options": [
+            "67",
+            "69",
+            "71",
+            "73"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "There are 7 baskets. Each has 18 eggs. How many eggs?",
+        "options": [
+            "116",
+            "122",
+            "126",
+            "132"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "A farmer has 108 carrots. He bunches 9 per bunch. How many bunches?",
+        "options": [
+            "10",
+            "11",
+            "12",
+            "13"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Sam had 85 cents. He spent 38 cents. How much left?",
+        "options": [
+            "42 cents",
+            "45 cents",
+            "47 cents",
+            "50 cents"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "A balloon costs $2. How much for 15 balloons?",
+        "options": [
+            "$28",
+            "$30",
+            "$32",
+            "$35"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "There are 144 students. Divided into 12 classes, how many per class?",
+        "options": [
+            "10",
+            "11",
+            "12",
+            "13"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "A store had 110 toys. 45 were sold. How many left?",
+        "options": [
+            "60",
+            "62",
+            "65",
+            "67"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "There are 5 boxes. Each has 20 chocolates. How many chocolates?",
+        "options": [
+            "95",
+            "100",
+            "105",
+            "110"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "A farmer has 99 tomatoes. He packs 11 per box. How many boxes?",
+        "options": [
+            "8",
+            "9",
+            "10",
+            "11"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Lisa has 72 beads. She uses 28 for a bracelet. How many left?",
+        "options": [
+            "42",
+            "44",
+            "46",
+            "48"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "A movie ticket costs $10. How much for 5 tickets?",
+        "options": [
+            "$45",
+            "$48",
+            "$50",
+            "$52"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "There are 180 stickers. Divided equally among 15 children, how many each?",
+        "options": [
+            "11",
+            "12",
+            "13",
+            "14"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "A store had 95 books. 38 were sold. How many left?",
+        "options": [
+            "55",
+            "57",
+            "60",
+            "62"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "There are 4 shelves. Each holds 30 books. How many books?",
+        "options": [
+            "110",
+            "120",
+            "130",
+            "140"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "A farmer has 120 potatoes. He bags 10 per bag. How many bags?",
+        "options": [
+            "11",
+            "12",
+            "13",
+            "14"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Tom had 90 marbles. He lost 32. How many left?",
+        "options": [
+            "56",
+            "58",
+            "60",
+            "62"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "A book costs $18. How much for 4 books?",
+        "options": [
+            "$68",
+            "$70",
+            "$72",
+            "$74"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "There are 144 students. Divided into 16 teams, how many per team?",
+        "options": [
+            "8",
+            "9",
+            "10",
+            "11"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "A bakery had 100 cookies. 45 were sold. How many left?",
+        "options": [
+            "50",
+            "52",
+            "55",
+            "57"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "There are 6 boxes. Each has 25 candies. How many candies?",
+        "options": [
+            "140",
+            "145",
+            "150",
+            "155"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "A farmer has 108 apples. He packs 9 per box. How many boxes?",
+        "options": [
+            "11",
+            "12",
+            "13",
+            "14"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Jenny has 80 stickers. She gives 45 to her friend. How many left?",
+        "options": [
+            "32",
+            "34",
+            "36",
+            "38"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "A toy costs $22. How much for 3 toys?",
+        "options": [
+            "$60",
+            "$62",
+            "$64",
+            "$66"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "There are 168 pencils. Divided equally among 14 students, how many each?",
+        "options": [
+            "10",
+            "11",
+            "12",
+            "13"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "A store had 120 balls. 50 were sold. How many left?",
+        "options": [
+            "68",
+            "70",
+            "72",
+            "74"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "There are 5 tables. Each has 12 chairs. How many chairs?",
+        "options": [
+            "55",
+            "58",
+            "60",
+            "62"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "A farmer has 99 pumpkins. He loads 9 per truck. How many trucks?",
+        "options": [
+            "10",
+            "11",
+            "12",
+            "13"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Lisa has 75 buttons. She uses 30 for crafts. How many left?",
+        "options": [
+            "42",
+            "44",
+            "46",
+            "48"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "A movie ticket costs $15. How much for 8 tickets?",
+        "options": [
+            "$110",
+            "$112",
+            "$114",
+            "$116"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "There are 180 flowers. Divided equally among 15 vases, how many per vase?",
+        "options": [
+            "11",
+            "12",
+            "13",
+            "14"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "A store had 150 notebooks. 60 were sold. How many left?",
+        "options": [
+            "85",
+            "88",
+            "90",
+            "92"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "There are 4 shelves. Each holds 40 books. How many books?",
+        "options": [
+            "150",
+            "160",
+            "170",
+            "180"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "A farmer has 120 tomatoes. He packs 10 per box. How many boxes?",
+        "options": [
+            "11",
+            "12",
+            "13",
+            "14"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Tom had 85 marbles. He lost 29. How many left?",
+        "options": [
+            "54",
+            "56",
+            "58",
+            "60"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "A book costs $20. How much for 5 books?",
+        "options": [
+            "$90",
+            "$95",
+            "$100",
+            "$105"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "There are 150 students. Divided into 10 teams, how many per team?",
+        "options": [
+            "14",
+            "15",
+            "16",
+            "17"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "A bakery had 110 cookies. 50 were sold. How many left?",
+        "options": [
+            "58",
+            "60",
+            "62",
+            "64"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "There are 6 boxes. Each has 20 candies. How many candies?",
+        "options": [
+            "120",
+            "125",
+            "130",
+            "135"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "A farmer has 108 apples. He packs 12 per box. How many boxes?",
+        "options": [
+            "8",
+            "9",
+            "10",
+            "11"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Jenny has 90 stickers. She gives 50 to her friend. How many left?",
+        "options": [
+            "38",
+            "40",
+            "42",
+            "44"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "A toy costs $25. How much for 2 toys?",
+        "options": [
+            "$48",
+            "$50",
+            "$52",
+            "$54"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "There are 180 pencils. Divided equally among 15 students, how many each?",
+        "options": [
+            "11",
+            "12",
+            "13",
+            "14"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "A store had 130 balls. 55 were sold. How many left?",
+        "options": [
+            "72",
+            "75",
+            "78",
+            "80"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "There are 5 tables. Each has 10 chairs. How many chairs?",
+        "options": [
+            "48",
+            "50",
+            "52",
+            "54"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "A farmer has 99 pumpkins. He loads 11 per truck. How many trucks?",
+        "options": [
+            "8",
+            "9",
+            "10",
+            "11"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Lisa has 80 buttons. She uses 25 for crafts. How many left?",
+        "options": [
+            "52",
+            "54",
+            "56",
+            "58"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "A movie ticket costs $12. How much for 9 tickets?",
+        "options": [
+            "$100",
+            "$104",
+            "$108",
+            "$112"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "There are 200 flowers. Divided equally among 20 vases, how many per vase?",
+        "options": [
+            "9",
+            "10",
+            "11",
+            "12"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "A store had 160 notebooks. 70 were sold. How many left?",
+        "options": [
+            "85",
+            "88",
+            "90",
+            "92"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "There are 4 shelves. Each holds 50 books. How many books?",
+        "options": [
+            "190",
+            "200",
+            "210",
+            "220"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "A farmer has 120 tomatoes. He packs 15 per box. How many boxes?",
+        "options": [
+            "7",
+            "8",
+            "9",
+            "10"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Tom had 100 marbles. He lost 45. How many left?",
+        "options": [
+            "52",
+            "55",
+            "57",
+            "60"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "A book costs $25. How much for 3 books?",
+        "options": [
+            "$70",
+            "$75",
+            "$80",
+            "$85"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "There are 200 students. Divided into 20 teams, how many per team?",
+        "options": [
+            "9",
+            "10",
+            "11",
+            "12"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "A bakery had 150 cookies. 60 were sold. How many left?",
+        "options": [
+            "88",
+            "90",
+            "92",
+            "94"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "There are 6 boxes. Each has 30 candies. How many candies?",
+        "options": [
+            "170",
+            "180",
+            "190",
+            "200"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "A farmer has 108 apples. He packs 18 per box. How many boxes?",
+        "options": [
+            "5",
+            "6",
+            "7",
+            "8"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Jenny has 100 stickers. She gives 60 to her friend. How many left?",
+        "options": [
+            "38",
+            "40",
+            "42",
+            "44"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "A toy costs $30. How much for 4 toys?",
+        "options": [
+            "$110",
+            "$120",
+            "$130",
+            "$140"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "There are 200 pencils. Divided equally among 20 students, how many each?",
+        "options": [
+            "9",
+            "10",
+            "11",
+            "12"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "A store had 150 balls. 65 were sold. How many left?",
+        "options": [
+            "85",
+            "82",
+            "85",
+            "88"
+        ],
+        "answer": 0
     }
 ]
